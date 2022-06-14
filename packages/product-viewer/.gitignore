@@ -1,7 +1,0 @@
-node_modules/*
-common-assets
-dist/*
-lib/*
-.DS_Store
-
-.eslintcache
